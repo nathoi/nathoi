@@ -1,5 +1,3 @@
- Hi there! 👋
-
 ### 🎓 I'm a beginner student learning to code!
 I'm currently focused on learning:
 - 🔨 **C programming**
