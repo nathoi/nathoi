@@ -23,7 +23,7 @@ After starting the **Common Core**, I've been diving into **C programming**, **a
   Efficient file reading, one line at a time.
 
 - <img src="https://img.shields.io/badge/-Born2beRoot-gray?style=for-the-badge&logo=linux&logoColor=white" alt="Born2beroot" height="20"/>  
-  Setting up a virtual Linux virtual machine with secure configurations.
+  Setting up a Linux virtual machine with secure configurations.
 
 - <img src="https://img.shields.io/badge/-Pipex-orange?style=for-the-badge&logo=linux&logoColor=white" alt="Pipex" height="20"/>  
   Unix pipe "|" implementation in C.
