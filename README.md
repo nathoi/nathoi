@@ -17,16 +17,16 @@ After starting the **Common Core**, I've been diving into **C programming**, **a
   Custom C library to reinforce the basics of C programming.
 
 - <img src="https://img.shields.io/badge/-Printf-purple?style=for-the-badge&logo=c&logoColor=white" alt="Printf" height="20"/>  
-  A custom implementation of the `printf` function in C.
+  A custom implementation of the "printf" function in C.
 
 - <img src="https://img.shields.io/badge/-Get_Next_Line-green?style=for-the-badge&logo=c&logoColor=white" alt="GetNextLine" height="20"/>  
   Efficient file reading, one line at a time.
 
 - <img src="https://img.shields.io/badge/-Born2beRoot-gray?style=for-the-badge&logo=linux&logoColor=white" alt="Born2beroot" height="20"/>  
-  Setting up a virtual Linux server with secure configurations.
+  Setting up a virtual Linux virtual machine with secure configurations.
 
 - <img src="https://img.shields.io/badge/-Pipex-orange?style=for-the-badge&logo=linux&logoColor=white" alt="Pipex" height="20"/>  
-  Unix pipe implementation to link processes together.
+  Unix pipe "|" implementation in C.
 
 - <img src="https://img.shields.io/badge/-Minitalk-red?style=for-the-badge&logo=signal&logoColor=white" alt="Minitalk" height="20"/>  
   A simple client-server messaging system using Unix signals.
