@@ -11,7 +11,7 @@ After starting the **Common Core**, I've been diving into **C programming**, **a
 
 ---
 
-## 🌟 Projects done, started in late October 2023.
+## 🌟 Projects done, started in late October 2024.
 
 - <img src="https://img.shields.io/badge/-Libft-blue?style=for-the-badge&logo=c&logoColor=white" alt="Libft" height="20"/>
   Custom C library to reinforce the basics of C programming.
