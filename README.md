@@ -13,14 +13,17 @@ After starting the **Common Core**, I've been diving into **C programming**, **a
 
 ## 🌟 Projects done, started in late October 2023.
 
-- <img src="https://img.shields.io/badge/-Libft-blue?style=for-the-badge&logo=c&logoColor=white" alt="Libft" height="20"/> 
-Custom C library to reinforce the basics of C programming.
+- <img src="https://img.shields.io/badge/-Libft-blue?style=for-the-badge&logo=c&logoColor=white" alt="Libft" height="20"/>
+  Custom C library to reinforce the basics of C programming.
 
 - <img src="https://img.shields.io/badge/-Printf-purple?style=for-the-badge&logo=c&logoColor=white" alt="Printf" height="20"/>  
   A custom implementation of the `printf` function in C.
 
 - <img src="https://img.shields.io/badge/-Get_Next_Line-green?style=for-the-badge&logo=c&logoColor=white" alt="GetNextLine" height="20"/>  
   Efficient file reading, one line at a time.
+
+- <img src="https://img.shields.io/badge/-Born2beRoot-gray?style=for-the-badge&logo=linux&logoColor=white" alt="Born2beroot" height="20"/>  
+  Setting up a virtual Linux server with secure configurations.
 
 - <img src="https://img.shields.io/badge/-Pipex-orange?style=for-the-badge&logo=linux&logoColor=white" alt="Pipex" height="20"/>  
   Unix pipe implementation to link processes together.
@@ -33,9 +36,6 @@ Custom C library to reinforce the basics of C programming.
 
 - <img src="https://img.shields.io/badge/-Push_Swap-yellow?style=for-the-badge&logo=algorithm&logoColor=black" alt="Push_swap" height="20"/>  
   Sorting a stack with the least number of instructions.
-
-- <img src="https://img.shields.io/badge/-Born2beRoot-gray?style=for-the-badge&logo=linux&logoColor=white" alt="Born2beroot" height="20"/>  
-  Setting up a virtual Linux server with secure configurations.
 
 <div align="center">
   
