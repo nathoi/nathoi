@@ -32,7 +32,7 @@ After starting the **Common Core**, I've been diving into **C programming**, **a
   A simple client-server messaging system using Unix signals.
 
 - <img src="https://img.shields.io/badge/-FDF-teal?style=for-the-badge&logo=3d&logoColor=white" alt="FDF" height="20"/>  
-  3D wireframe visualization with isometric projections.
+  3D wireframe visualization with multiple projections, with rotations, translations, zoom & scaling.
 
 - <img src="https://img.shields.io/badge/-Push_Swap-yellow?style=for-the-badge&logo=algorithm&logoColor=black" alt="Push_swap" height="20"/>  
   Sorting a stack with the least number of instructions.
