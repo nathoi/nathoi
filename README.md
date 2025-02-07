@@ -37,6 +37,11 @@ After starting the **Common Core**, I've been diving into **C programming**, **a
 - <img src="https://img.shields.io/badge/-Push_Swap-yellow?style=for-the-badge&logo=algorithm&logoColor=black" alt="Push_swap" height="20"/>  
   Sorting a stack with the least number of instructions.
 
+## 🔜 Upcoming Projects.
+- <img src="https://img.shields.io/badge/-Minishell-blueviolet?style=for-the-badge&logo=terminal&logoColor=white" alt="Minishell" height="20"/> A simple Unix shell implementation in C, handling pipes, redirections, and built-in commands.
+- <img src="https://img.shields.io/badge/-Philosophers-darkgreen?style=for-the-badge&logo=brain&logoColor=white" alt="Philosophers" height="20"/> A concurrency and threading project based on the classic dining philosophers problem.
+
+
 <div align="center">
   
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
