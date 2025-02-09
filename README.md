@@ -26,7 +26,7 @@ After starting the **Common Core**, I've been diving into **C programming**, **a
   Setting up a Linux virtual machine with secure configurations.
 
 - <img src="https://img.shields.io/badge/-Pipex-orange?style=for-the-badge&logo=linux&logoColor=white" alt="Pipex" height="20"/>  
-  Unix pipe "|" implementation in C.
+  Unix pipe "|" implementation in C. Handles multiple pipes and support « & » when the first parameter is "here_doc"
 
 - <img src="https://img.shields.io/badge/-Minitalk-red?style=for-the-badge&logo=signal&logoColor=white" alt="Minitalk" height="20"/>  
   A simple client-server messaging system using Unix signals.
