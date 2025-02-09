@@ -29,7 +29,7 @@ After starting the **Common Core**, I've been diving into **C programming**, **a
   Unix pipe "|" implementation in C. Handles multiple pipes and support « & » when the first parameter is "here_doc".
 
 - <img src="https://img.shields.io/badge/-Minitalk-red?style=for-the-badge&logo=signal&logoColor=white" alt="Minitalk" height="20"/>  
-  A simple client-server messaging system using Unix signals. Handles unicode and acknowledges received messages by sending back signals.
+  Client-server messaging system using Unix signals. Handles unicode and acknowledges received messages by sending back signals.
 
 - <img src="https://img.shields.io/badge/-FDF-teal?style=for-the-badge&logo=3d&logoColor=white" alt="FDF" height="20"/>  
   3D wireframe visualization with multiple projections, with rotations, translations, zoom & scaling.
