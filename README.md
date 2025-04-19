@@ -35,9 +35,10 @@ After starting the **Common Core**, I've been diving into **C programming**, **a
   3D wireframe visualization with multiple projections, with rotations, translations, zoom & scaling.
 
 - <img src="https://img.shields.io/badge/-Push_Swap-yellow?style=for-the-badge&logo=algorithm&logoColor=black" alt="Push_swap" height="20"/>  
-  Sorting a stack with the least number of instructions. Sorts by chunks with optimized stack rotations (grade 96/100).
-
-- <img src="https://img.shields.io/badge/-Minishell-blueviolet?style=for-the-badge&logo=terminal&logoColor=white" alt="Minishell" height="20"/> A simple Unix shell implementation in C, handling pipes, redirections, and built-in commands.
+  Sorting a stack with the least number of instructions. Chunk sorting with optimized rotations (grade 96/100).
+  
+- <img src="https://img.shields.io/badge/-Minishell-blueviolet?style=for-the-badge&logo=terminal&logoColor=white" alt="Minishell" height="20"/>
+  A simple Unix shell implementation in C, handling pipes, redirections, and built-in commands.
 
 ## 🔜 Upcoming Projects.
 - <img src="https://img.shields.io/badge/-Philosophers-darkgreen?style=for-the-badge&logo=brain&logoColor=white" alt="Philosophers" height="20"/> A concurrency and threading project based on the classic dining philosophers problem.
