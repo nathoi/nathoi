@@ -11,7 +11,7 @@ After starting the **Common Core**, I've been diving into **C programming**, **a
 
 ---
 
-## 🌟 Projects done, started in late October 2024.
+## 🌟 42 Projects completed, started in late October 2024.
 
 - <img src="https://img.shields.io/badge/-Libft-blue?style=for-the-badge&logo=c&logoColor=white" alt="Libft" height="20"/>
   Custom C library to reinforce the basics of C programming.
@@ -40,9 +40,8 @@ After starting the **Common Core**, I've been diving into **C programming**, **a
 - <img src="https://img.shields.io/badge/-Minishell-blueviolet?style=for-the-badge&logo=terminal&logoColor=white" alt="Minishell" height="20"/>
   A simple Unix shell implementation in C, handling pipes, redirections, and built-in commands.
 
-## 🔜 Upcoming Projects.
-- <img src="https://img.shields.io/badge/-Philosophers-darkgreen?style=for-the-badge&logo=brain&logoColor=white" alt="Philosophers" height="20"/> A concurrency and threading project based on the classic dining philosophers problem.
-
+- <img src="https://img.shields.io/badge/-Philosophers-darkgreen?style=for-the-badge&logo=brain&logoColor=white" alt="Philosophers" height="20"/>
+  A concurrency and threading project based on the classic dining philosophers problem.
 
 <div align="center">
   
